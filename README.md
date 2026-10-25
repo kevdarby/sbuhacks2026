@@ -4,6 +4,6 @@ I started playing the guitar 2 months ago, and I loved playing along with music,
   
 2. It plays back. A push-pull solenoid strikes a real drum, fired a few milliseconds early so every hit lands right on your beat, while a synthesized bass line follows your chords through the amp's speaker. Speed up, and the band speeds up with you.
 
-No more hunting for drum tracks: just pick up your guitar, start playing, and the band falls in behind you.
+No more hunting for drum tracks: just pick up your guitar, start playing, and the band falls in behind you :)
 
 
