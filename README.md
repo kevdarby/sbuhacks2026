@@ -6,4 +6,12 @@ I started playing the guitar 2 months ago, and I loved playing along with music,
 
 No more hunting for drum tracks: just pick up your guitar, start playing, and the band falls in behind you :)
 
+Material List:
+Electric Guitar  
+AMP    
+Relay Module https://www.amazon.com/dp/B0F1C3ST3H?ref=ppx_yo2ov_dt_b_fed_asin_title  
+Solenoid https://www.amazon.com/dp/B0DM6MPLJ1?ref=ppx_yo2ov_dt_b_fed_asin_title  
+Conductor Electrical Wire https://www.amazon.com/dp/B0CN76F6DH?ref=ppx_yo2ov_dt_b_fed_asin_title   
+Power Supply https://www.amazon.com/dp/B01GEA8PQA?ref=ppx_yo2ov_dt_b_fed_asin_title  
+3D Printed Bridge    
 
