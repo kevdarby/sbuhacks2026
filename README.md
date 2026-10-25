@@ -6,7 +6,7 @@ I started playing the guitar 2 months ago, and I loved playing along with music,
 
 No more hunting for drum tracks: just pick up your guitar, start playing, and the band falls in behind you :)
 
-Material List:
+Material List:  
 Electric Guitar  
 AMP    
 Relay Module https://www.amazon.com/dp/B0F1C3ST3H?ref=ppx_yo2ov_dt_b_fed_asin_title  
