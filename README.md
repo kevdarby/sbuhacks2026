@@ -1,3 +1,4 @@
+## What is this?
 I started playing the guitar 2 months ago, and I loved playing along with music, but I found it cumbersome to load drum tracks for every song. We wanted it the other way around: a band that listens and follows you.  This project accomplishes this in two ways:
 
 1. It listens. Our Boss Katana amp doubles as a USB audio interface, so the laptop hears exactly what you're playing in real time. Signal processing finds every strum to track your tempo and where the beat falls, and Spotify's Basic Pitch neural network transcribes the notes to work out which chords you're playing.
@@ -6,7 +7,7 @@ I started playing the guitar 2 months ago, and I loved playing along with music,
 
 No more hunting for drum tracks: just pick up your guitar, start playing, and the band falls in behind you :)
 
-Material List:  
+## Material List:  
 Electric Guitar  
 AMP    
 Relay Module https://www.amazon.com/dp/B0F1C3ST3H?ref=ppx_yo2ov_dt_b_fed_asin_title  
@@ -15,3 +16,6 @@ Conductor Electrical Wire https://www.amazon.com/dp/B0CN76F6DH?ref=ppx_yo2ov_dt_
 Power Supply https://www.amazon.com/dp/B01GEA8PQA?ref=ppx_yo2ov_dt_b_fed_asin_title  
 3D Printed Bridge    
 
+## Links
+https://devpost.com/software/relay-rhythm  
+https://www.youtube.com/watch?v=Mc20zodbZW0
